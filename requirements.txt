@@ -1,0 +1,13 @@
+librosa
+numpy
+pandas
+scikit-learn
+tensorflow
+sounddevice
+matplotlib
+fastapi
+uvicorn
+streamlit
+joblib
+python-multipart
+pyaudio
